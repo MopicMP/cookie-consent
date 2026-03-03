@@ -1,0 +1,25 @@
+{
+  "name": "cookie-consent",
+  "version": "1.0.0",
+  "description": "Cookie consent banner (GDPR)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "consent",
+    "cookie",
+    "js",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/cookie-consent.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
